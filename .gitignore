@@ -1,0 +1,22 @@
+# Herramientas binarias y SDKs descargados
+platform-tools/
+tools/jdk/
+tools/android-sdk/
+launchers/
+
+# Gradle y carpetas de compilación
+.gradle/
+**/build/
+**/bin/
+**/.temp/
+local.properties
+
+# Archivos comprimidos y logs temporales
+*.zip
+*.tar.gz
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
